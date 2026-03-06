@@ -10,7 +10,7 @@ This website is for The Service Benefit (TSB), a platform that highlights impact
 A simple website that highlights The Service Benefit’s mission and showcases Filipino NGOs through media and calls to action (donate/volunteer/share).
 
 ## How to view
-Live site: (https://avanormer.github.io/-Mini-Project-1-Website-for-Someone-Else-/)
+Live site:(https://avanormer.github.io/The-Service-Benefit-Hub/)
 
 ## What I learned
 - How to structure a multi-page site using semantic HTML (header/nav/main/footer)
